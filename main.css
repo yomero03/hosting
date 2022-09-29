@@ -1,0 +1,40 @@
+#color{
+    background-color: #2c00b0;
+    border: 2px solid rgb(251, 249, 249);
+    height: 100%;
+}
+
+h1.titulo{
+    color:white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+body{
+    background-image: url(FondoC.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h3,h2,h4{
+    color:white;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+img.principal{
+    height: 100%;
+    width: 100%;
+}
+
+p{
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+#Mapa{
+    height: 100%;
+    width: 100%;
+    
+}
